@@ -1,4 +1,10 @@
 # Learn Java
 
 * Hello World (Looking at Java Program Structure)
-* Variables
+* Variables - primitive types
+
+
+# Terminal Commands:
+
+- javac <appName>.java
+- java <appName>
