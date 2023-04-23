@@ -6,5 +6,7 @@
 
 # Terminal Commands:
 
+## compile:
 - javac appName.java
+## run:
 - java appName
