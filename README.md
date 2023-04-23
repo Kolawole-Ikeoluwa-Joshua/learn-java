@@ -6,5 +6,5 @@
 
 # Terminal Commands:
 
-- javac <appName>.java
-- java <appName>
+- javac appName.java
+- java appName
