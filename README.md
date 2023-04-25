@@ -2,6 +2,8 @@
 
 * Hello World (Looking at Java Program Structure)
 * Variables - primitive types
+* Manipulating Variables
+
 
 
 # Terminal Commands:
