@@ -10,6 +10,11 @@
 # Terminal Commands:
 
 ## compile:
-- javac appName.java
+```
+javac appName.java
+```
+- 
 ## run:
-- java appName
+```
+java appName
+```
