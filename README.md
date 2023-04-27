@@ -3,7 +3,7 @@
 * Hello World (Java Program Structure)
 * Variables
 * Manipulating Variables
-* Introduction to classes
+* Object-Oriented Java (Introduction to classes)
 
 
 
