@@ -13,7 +13,7 @@
 ```
 javac appName.java
 ```
-- 
+
 ## run:
 ```
 java appName
