@@ -1,8 +1,9 @@
 # Learn Java
 
-* Hello World (Looking at Java Program Structure)
-* Variables - primitive types
+* Hello World (Java Program Structure)
+* Variables
 * Manipulating Variables
+* Introduction to classes
 
 
 
