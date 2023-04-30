@@ -4,6 +4,7 @@
 * Variables
 * Manipulating Variables
 * Object-Oriented Java (Introduction to classes, object states, objects methods)
+* Conditionals & Control Flow
 
 
 
