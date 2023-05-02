@@ -6,6 +6,7 @@
 * Object-Oriented Java (Introduction to classes, object states, objects methods)
 * Conditionals & Control Flow
 * Conditional Operators
+* Arrays
 
 
 
