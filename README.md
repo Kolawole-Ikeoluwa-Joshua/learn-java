@@ -7,6 +7,8 @@
 * Conditionals & Control Flow
 * Conditional Operators
 * Arrays
+* ArrayLists - Dynamically sized array
+
 
 
 
