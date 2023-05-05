@@ -9,6 +9,7 @@
 * Arrays
 * ArrayLists - Dynamically sized array
 * Loops (while, for, for-each)
+* String methods
 
 
 
