@@ -10,6 +10,7 @@
 * ArrayLists - Dynamically sized array
 * Loops (while, for, for-each)
 * String methods
+* Access, Encapsulation and Scope
 
 
 
