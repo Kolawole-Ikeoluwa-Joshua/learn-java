@@ -12,6 +12,7 @@
 * String methods
 * Access, Encapsulation and Scope
 * Static methods and variables
+* Inheritance & Polymorphism
 
 
 
