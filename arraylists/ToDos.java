@@ -1,3 +1,4 @@
+package arraylists;
 /*
  * Creating an ArrayList.
  * Adding a new ArrayList item using add().

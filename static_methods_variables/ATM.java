@@ -1,3 +1,4 @@
+package static_methods_variables;
 /*
  * Static methods and variables are associated with the class as a whole, not objects of the class.
  * Static methods and variables are declared as static by using the static keyword upon declaration.

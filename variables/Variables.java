@@ -1,3 +1,4 @@
+package variables;
 // A Job Seeker class
 
 public class Variables {

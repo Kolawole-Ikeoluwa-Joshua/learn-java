@@ -1,3 +1,4 @@
+package string_methods;
 /*
  * We have learned some of the string methods that come with the String class:
     * length()

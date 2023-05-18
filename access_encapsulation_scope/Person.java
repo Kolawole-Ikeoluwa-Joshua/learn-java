@@ -1,3 +1,4 @@
+package access_encapsulation_scope;
 public class Person{
     public int age;
     public int wisdom;

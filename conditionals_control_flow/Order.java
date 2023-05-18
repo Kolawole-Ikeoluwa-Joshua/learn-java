@@ -1,3 +1,5 @@
+package conditionals_control_flow;
+
 /*
 Conditional statements add branching paths to our programs. 
 We use conditionals to make decisions in the program so that different inputs will produce different results.

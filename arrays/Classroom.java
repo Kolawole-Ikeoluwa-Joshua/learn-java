@@ -1,3 +1,4 @@
+package arrays;
 /*
 Throughout the lesson, we have learned about:
 

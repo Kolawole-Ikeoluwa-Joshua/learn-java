@@ -1,3 +1,4 @@
+package loops;
 /* 
  * while loops: These are useful to repeat a code block an unknown number of times until some condition is met.
  * for loops: These are ideal for when you are incrementing or decrementing with a counter variable.
