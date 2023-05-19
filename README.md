@@ -14,6 +14,7 @@
 * Static methods and variables
 * Inheritance & Polymorphism
 * Debugging
+* 2D Arrays
 
 
 
